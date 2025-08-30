@@ -26,8 +26,8 @@ Cuando todos estén agregados, presioná Sortear amigo 🎲  <img src="assets/so
 
 Mirá el resultado en pantalla y disfrutá de la sorpresa.
 
-🎬 Demo (opcional)
-![Demo](assets/demo.gif)
+![Demostración del sorteo](assets/sorteo.gif)
+
 
 🔹Añadir múltiples participantes fácilmente.
 
@@ -43,10 +43,13 @@ Mirá el resultado en pantalla y disfrutá de la sorpresa.
 
 👤 Autor
 
+  <img src="assets/autor.jpg" alt="Agus" width="120" style="border:4px solid #4CAF50;">
+
+
 
 Agustín Negri Hrytezuk
 
-[GitHub](https://github.com/Agustinnhzk) | [LinkedIn](https://www.linkedin.com/in/agustín-negri-55b0a4281)
+[GitHub](https://github.com/Agustinnhzk) <img src="assets/github.png" alt="git" width="30"/> | [LinkedIn](https://www.linkedin.com/in/agustín-negri-55b0a4281) <img src="assets/linkedin.png" alt="linkedin" width="30"/>
 
 
 
